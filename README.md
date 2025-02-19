@@ -63,8 +63,10 @@ The CNN model consists of the following layers:
 ## Project Ouput
 
 `Validation Accuracy `
+
 ![Validation Accuracy](download.png)
 
-`Validation Accuracy `
+`Prediction Result ( Kertas stand for Paper ) `
+
 ![Guest Result](Screenshot-2025-02-19-180846.png)
 
