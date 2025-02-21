@@ -3,12 +3,6 @@
 
 This project implements a Convolutional Neural Network (CNN) to classify images from the well-known game Rock, Paper, Scissors. The model is trained using TensorFlow and Keras to recognize hand gestures representing these three classes.
 
-
-## Authors
-
-- [@NeinAlkem](https://github.com/neinAlkem)
-
-
 ## Data Source
 
  https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip-O/content/rockpaperscissors.zip
